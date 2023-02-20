@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there / hola a todos👋
+
+
+¡Hola a todos! Soy Mauricio, estudiante de último año en ingeniería industrial que busca desafíos y oportunidades en el mundo laboral. Soy un apasionado de la logística, distribución y ventas y tengo experiencia laboral en estos campos. Además, soy habilidoso con herramientas digitales de desarrollo front-end como Html, Css y Javascript, y en análisis de datos con PowerBi, Excel y SQL.
+
+Me considero una persona con habilidades de resolución de problemas y capacidad para trabajar en equipo. Si estás buscando a alguien que pueda aplicar sus conocimientos y habilidades en tu empresa, ¡soy tu hombre! Estoy emocionado por aprender, crecer y aportar mi granito de arena al éxito de tu organización. ¡Gracias por tu tiempo!
 
 <!--
 **MauricioNv/MauricioNv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
